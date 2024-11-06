@@ -1,6 +1,3 @@
-Here’s a detailed description you can use for your GitHub README:
-
----
 
 # Best City to Live in Canada Analysis
 
